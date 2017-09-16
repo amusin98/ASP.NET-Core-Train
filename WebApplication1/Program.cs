@@ -20,6 +20,8 @@ namespace WebApplication1
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
+                .UseWebRoot("view")
+            .ConfigureLogging(logging => logging.SetMinimumLevel(LogLevel.Trace))
                 .Build();
     }
 }

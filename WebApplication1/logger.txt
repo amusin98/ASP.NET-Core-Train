@@ -1,0 +1,482 @@
+Hosting starting
+Hosting started
+Loaded hosting startup assembly Project1
+Loaded hosting startup assembly Microsoft.AspNetCore.ApplicationInsights.HostingStartup
+Loaded hosting startup assembly Microsoft.AspNetCore.Server.IISIntegration
+Connection id "0HL7SUOCAVI1U" started.
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Request: /
+Connection id "0HL7SUOCAVI1U" completed keep alive response.
+Request finished in 20.4274ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/index.html  
+Request: /index.html
+Connection id "0HL7SUOCAVI1U" completed keep alive response.
+Request finished in 4.2655ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/about.html  
+Request: /about.html
+Connection id "0HL7SUOCAVI1U" completed keep alive response.
+Request finished in 5.4025ms 200 
+Hosting starting
+Hosting started
+Loaded hosting startup assembly Project1
+Loaded hosting startup assembly Microsoft.AspNetCore.ApplicationInsights.HostingStartup
+Loaded hosting startup assembly Microsoft.AspNetCore.Server.IISIntegration
+Connection id "0HL7SUP4LOATR" started.
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Request: /
+Connection id "0HL7SUP4LOATR" completed keep alive response.
+Request finished in 16.756ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Request: /
+Connection id "0HL7SUP4LOATR" completed keep alive response.
+Request finished in 4.8725ms 200 
+Connection id "0HL7SUP4LOATR" received FIN.
+Connection id "0HL7SUP4LOATR" disconnecting.
+Connection id "0HL7SUP4LOATR" sending FIN.
+Connection id "0HL7SUP4LOATR" stopped.
+Hosting starting
+Hosting started
+Loaded hosting startup assembly Project1
+Loaded hosting startup assembly Microsoft.AspNetCore.ApplicationInsights.HostingStartup
+Loaded hosting startup assembly Microsoft.AspNetCore.Server.IISIntegration
+Connection id "0HL7T4H7I20IO" started.
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Connection id "0HL7T4H7I20IO" completed keep alive response.
+Request finished in 18.7609ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Connection id "0HL7T4H7I20IO" completed keep alive response.
+Request finished in 4.8353ms 200 text/html; charset=utf-8
+Connection id "0HL7T4H7I20IO" received FIN.
+Connection id "0HL7T4H7I20IO" disconnecting.
+Connection id "0HL7T4H7I20IO" sending FIN.
+Connection id "0HL7T4H7I20IO" stopped.
+Hosting starting
+Hosting started
+Loaded hosting startup assembly Project1
+Loaded hosting startup assembly Microsoft.AspNetCore.ApplicationInsights.HostingStartup
+Loaded hosting startup assembly Microsoft.AspNetCore.Server.IISIntegration
+Connection id "0HL7T4JQLNDLQ" started.
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Connection id "0HL7T4JQLNDLQ" completed keep alive response.
+Request finished in 88.8528ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Connection id "0HL7T4JQLNDLQ" completed keep alive response.
+Request finished in 3.9625ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Connection id "0HL7T4JQLNDLQ" completed keep alive response.
+Request finished in 2.724ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Connection id "0HL7T4JQLNDLQ" completed keep alive response.
+Request finished in 2.4469ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Connection id "0HL7T4JQLNDLQ" completed keep alive response.
+Request finished in 3.0201ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Connection id "0HL7T4JQLNDLQ" completed keep alive response.
+Request finished in 6.392ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Connection id "0HL7T4JQLNDLQ" completed keep alive response.
+Request finished in 3.0308ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Connection id "0HL7T4JQLNDLQ" completed keep alive response.
+Request finished in 1.6957ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Connection id "0HL7T4JQLNDLQ" completed keep alive response.
+Request finished in 2.6544ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Connection id "0HL7T4JQLNDLQ" completed keep alive response.
+Request finished in 1.7075ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Connection id "0HL7T4JQLNDLQ" completed keep alive response.
+Request finished in 3.1026ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Connection id "0HL7T4JQLNDLQ" completed keep alive response.
+Request finished in 1.5597ms 200 
+Connection id "0HL7T4JQLNDLQ" received FIN.
+Connection id "0HL7T4JQLNDLQ" disconnecting.
+Connection id "0HL7T4JQLNDLQ" sending FIN.
+Connection id "0HL7T4JQLNDLQ" stopped.
+Hosting starting
+Hosting started
+Loaded hosting startup assembly Project1
+Loaded hosting startup assembly Microsoft.AspNetCore.ApplicationInsights.HostingStartup
+Loaded hosting startup assembly Microsoft.AspNetCore.Server.IISIntegration
+Connection id "0HL7T4M3GV5KS" started.
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing protect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session started; Key:3a661df9-3bde-6c1d-c03a-fb2217f8ca24, Id:1b2d7ac1-b13a-a181-8f0d-782406f09056
+Session stored; Key:3a661df9-3bde-6c1d-c03a-fb2217f8ca24, Id:1b2d7ac1-b13a-a181-8f0d-782406f09056, Count:1
+Connection id "0HL7T4M3GV5KS" completed keep alive response.
+Request finished in 93.7102ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:3a661df9-3bde-6c1d-c03a-fb2217f8ca24, Id:1b2d7ac1-b13a-a181-8f0d-782406f09056, Count:1
+Connection id "0HL7T4M3GV5KS" completed keep alive response.
+Request finished in 5.7073ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:3a661df9-3bde-6c1d-c03a-fb2217f8ca24, Id:1b2d7ac1-b13a-a181-8f0d-782406f09056, Count:1
+Connection id "0HL7T4M3GV5KS" completed keep alive response.
+Request finished in 4.6988ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:3a661df9-3bde-6c1d-c03a-fb2217f8ca24, Id:1b2d7ac1-b13a-a181-8f0d-782406f09056, Count:1
+Connection id "0HL7T4M3GV5KS" completed keep alive response.
+Request finished in 6.433ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:3a661df9-3bde-6c1d-c03a-fb2217f8ca24, Id:1b2d7ac1-b13a-a181-8f0d-782406f09056, Count:1
+Connection id "0HL7T4M3GV5KS" completed keep alive response.
+Request finished in 4.5152ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:3a661df9-3bde-6c1d-c03a-fb2217f8ca24, Id:1b2d7ac1-b13a-a181-8f0d-782406f09056, Count:1
+Connection id "0HL7T4M3GV5KS" completed keep alive response.
+Request finished in 2.7833ms 200 
+Connection id "0HL7T4M3GV5KS" received FIN.
+Connection id "0HL7T4M3GV5KS" disconnecting.
+Connection id "0HL7T4M3GV5KS" sending FIN.
+Connection id "0HL7T4M3GV5KS" stopped.
+Hosting starting
+Hosting started
+Loaded hosting startup assembly Project1
+Loaded hosting startup assembly Microsoft.AspNetCore.ApplicationInsights.HostingStartup
+Loaded hosting startup assembly Microsoft.AspNetCore.Server.IISIntegration
+Connection id "0HL7T4OAN5HL8" started.
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing protect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session started; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:e8b43be2-5ea5-929d-eef2-fc978759e7f6
+Session stored; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:e8b43be2-5ea5-929d-eef2-fc978759e7f6, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 36.9337ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:e8b43be2-5ea5-929d-eef2-fc978759e7f6, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 7.7551ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:e8b43be2-5ea5-929d-eef2-fc978759e7f6, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 5.0945ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:e8b43be2-5ea5-929d-eef2-fc978759e7f6, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 3.3402ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Accessing expired session, Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92
+Session started; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a
+Session stored; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 7.7852ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 4.3673ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 4.8611ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 9.3817ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 4.7353ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 3.869ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 4.695ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 4.3461ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 3.929ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 6.7215ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 5.6644ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 3.0049ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 4.3271ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 8.4451ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 3.9119ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 2.6313ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 3.9203ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 2.9354ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 4.4658ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 2.7153ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 4.1127ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 4.5171ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 3.8819ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 2.4374ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 6.4843ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 7.7483ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 4.1917ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 2.743ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 5.9415ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 3.0023ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 4.6296ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 6.6679ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 4.0617ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 2.6335ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 3.601ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 7.9498ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 4.4738ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 5.5264ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 4.2164ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 3.0258ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 5.813ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 2.9479ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 5.6959ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 6.7219ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 4.0678ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 2.6621ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 4.5696ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:48e2b3fc-92a5-5e14-bb64-dd54aae8c08a, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 3.3927ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Accessing expired session, Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92
+Session started; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:c3c2d836-675a-6823-b71e-058b6ae42ca1
+Session stored; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:c3c2d836-675a-6823-b71e-058b6ae42ca1, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 5.8332ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:c3c2d836-675a-6823-b71e-058b6ae42ca1, Count:1
+Connection id "0HL7T4OAN5HL8" completed keep alive response.
+Request finished in 3.3436ms 200 
+Hosting starting
+Hosting started
+Loaded hosting startup assembly Project1
+Loaded hosting startup assembly Microsoft.AspNetCore.ApplicationInsights.HostingStartup
+Loaded hosting startup assembly Microsoft.AspNetCore.Server.IISIntegration
+Connection id "0HL7T4UHBMM1H" started.
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Accessing expired session, Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92
+Session started; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:8bf7a92a-101a-8e2a-ff8e-d65baa310b38
+Session stored; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:8bf7a92a-101a-8e2a-ff8e-d65baa310b38, Count:1
+Connection id "0HL7T4UHBMM1H" completed keep alive response.
+Request finished in 456.2042ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:8bf7a92a-101a-8e2a-ff8e-d65baa310b38, Count:1
+Connection id "0HL7T4UHBMM1H" completed keep alive response.
+Request finished in 32.7609ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:8bf7a92a-101a-8e2a-ff8e-d65baa310b38, Count:1
+Connection id "0HL7T4UHBMM1H" completed keep alive response.
+Request finished in 5.4359ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:8bf7a92a-101a-8e2a-ff8e-d65baa310b38, Count:1
+Connection id "0HL7T4UHBMM1H" completed keep alive response.
+Request finished in 3.5698ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Accessing expired session, Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92
+Session started; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:db5c0df0-2272-359f-079e-3f8221400de1
+Session stored; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:db5c0df0-2272-359f-079e-3f8221400de1, Count:1
+Connection id "0HL7T4UHBMM1H" completed keep alive response.
+Request finished in 8.6564ms 200 
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Session loaded; Key:cf9eb5aa-6ff4-5d81-da85-627253c0ea92, Id:db5c0df0-2272-359f-079e-3f8221400de1, Count:1
+Connection id "0HL7T4UHBMM1H" completed keep alive response.
+Request finished in 2.7229ms 200 
+Connection id "0HL7T4UHBMM1H" received FIN.
+Connection id "0HL7T4UHBMM1H" disconnecting.
+Connection id "0HL7T4UHBMM1H" sending FIN.
+Connection id "0HL7T4UHBMM1H" stopped.
+Hosting starting
+Hosting started
+Loaded hosting startup assembly Project1
+Loaded hosting startup assembly Microsoft.AspNetCore.ApplicationInsights.HostingStartup
+Loaded hosting startup assembly Microsoft.AspNetCore.Server.IISIntegration
+Connection id "0HL7T53GSTJQV" started.
+Request starting HTTP/1.1 GET http://localhost:49864/  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Connection id "0HL7T53GSTJQV" completed keep alive response.
+Request finished in 45.1523ms 200 text/html;charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:49864/favicon.ico  
+Performing unprotect operation to key {19d182fc-0624-4c18-b64f-b67d975cd15f} with purposes ('C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1', 'SessionMiddleware').
+Connection id "0HL7T53GSTJQV" completed keep alive response.
+Request finished in 3.1806ms 200 text/html;charset=utf-8
+Connection id "0HL7T53GSTJQV" received FIN.
+Connection id "0HL7T53GSTJQV" disconnecting.
+Connection id "0HL7T53GSTJQV" sending FIN.
+Connection id "0HL7T53GSTJQV" stopped.
